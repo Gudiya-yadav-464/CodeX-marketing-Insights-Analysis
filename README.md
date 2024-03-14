@@ -71,8 +71,9 @@ Their Marketing Team wants their Data Analyst to convert these survey results in
 ### Links 
 
 Linkdin Profile -- https://www.linkedin.com/in/nikita-y-481861229/</p>
-Video Presentation Link -- </p>
+Video Presentation Link -- https://youtu.be/sJr_YptIqtc</p>
 Dashboard Link -- https://www.novypro.com/project/codex-beverage-company-analysis
+Project Challenge Link -- https://codebasics.io/challenge/codebasics-resume-project-challenge</p>
 
 
 
