@@ -1,4 +1,6 @@
-# CodeX-marketing-Insights-Analysis
+# CodeX-Marketing-Insights-Analysis
+
+### This Project is Codebasics Resume Project Challenge 6
 
 ## Introduction 
 
@@ -64,6 +66,15 @@ Their Marketing Team wants their Data Analyst to convert these survey results in
 ● What kind of marketing campaigns, offers, and discounts we can run?</p>
 ● Who can be a brand ambassador, and why?</p>
 ● Who should be our target audience, and why?</p>
+
+
+### Links 
+
+Linkdin Profile -- https://www.linkedin.com/in/nikita-y-481861229/</p>
+Video Presentation Link -- </p>
+Project Link -- 
+
+
 
 
 
