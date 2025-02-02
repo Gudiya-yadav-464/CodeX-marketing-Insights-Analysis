@@ -72,7 +72,7 @@ Their Marketing Team wants their Data Analyst to convert these survey results in
 
 Linkdin Profile -- (https://www.linkedin.com/in/gudiya-y-dataanalyst/)
 Video Presentation Link -- https://youtu.be/sJr_YptIqtc</p>
-Dashboard Link -- (https://app.powerbi.com/view?r=eyJrIjoiYjA1YTg1OWItNjI5NS00OThhLWIxODYtNTgxZmZiMGQwYTVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Dashboard Link -- (https://app.powerbi.com/viewr=eyJrIjoiYjA1YTg1OWItNjI5NS00OThhLWIxODYtNTgxZmZiMGQwYTVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)</p>
 Project Challenge Link -- https://codebasics.io/challenge/codebasics-resume-project-challenge</p>
 
 
